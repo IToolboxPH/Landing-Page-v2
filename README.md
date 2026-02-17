@@ -110,8 +110,8 @@ Edit `/index.html` - Search for "social-links" section:
 ### Update Contact Info
 Edit `/index.html` - Search for "Contact Information":
 ```html
-<p>YOUR_EMAIL@example.com</p>
-<p>+63 YOUR PHONE</p>
+<p>namortel.itoolbox.ph@gmail.com</p>
+<p>+639992298724</p>
 ```
 
 ## 📱 Browser Support
