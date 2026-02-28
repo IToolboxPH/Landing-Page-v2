@@ -1,0 +1,135 @@
+# IToolbox Store - E-commerce Platform Configuration
+# Technology Stack: React + Node.js + MongoDB + Stripe
+# Purpose: Selling IoT devices, smart devices, mobile devices, computers and peripherals
+
+project:
+  name: "IToolbox Store"
+  version: "1.0.0"
+  description: "E-commerce platform for home and enterprise IoT devices, smart devices, mobile devices, and computer peripherals"
+  founded: 2026
+  status: "planning"
+
+platform:
+  frontend:
+    framework: "React"
+    version: "18.x"
+    ui_library: "Material-UI"
+    state_management: "Redux Toolkit"
+  
+  backend:
+    runtime: "Node.js"
+    framework: "Express.js"
+    api_type: "RESTful"
+    version: "20.x"
+  
+  database:
+    primary: "MongoDB"
+    cache: "Redis"
+    search: "Elasticsearch"
+  
+  payment:
+    provider: "Stripe"
+    currency: ["PHP", "USD"]
+    methods: ["credit_card", "debit_card", "gcash", "paymaya", "bank_transfer"]
+  
+  hosting:
+    web: "Vercel"
+    api: "Railway"
+    database: "MongoDB Atlas"
+    cdn: "Cloudflare"
+
+product_categories:
+  - name: "Home IoT Devices"
+    subcategories: ["Smart Home Hubs", "Smart Lighting", "Smart Locks", "Security Cameras", "Smart Thermostats", "Smart Sensors"]
+  
+  - name: "Enterprise IoT Devices"
+    subcategories: ["Industrial Sensors", "Asset Tracking", "Environmental Monitoring", "Building Automation", "Fleet Management"]
+  
+  - name: "Smart Devices"
+    subcategories: ["Smart Speakers", "Smart Displays", "Wearables", "Smart Appliances", "Health Monitors"]
+  
+  - name: "Mobile Devices & Peripherals"
+    subcategories: ["Smartphones", "Tablets", "Phone Cases", "Chargers", "Power Banks", "Earphones", "Screen Protectors"]
+  
+  - name: "Computer Devices & Peripherals"
+    subcategories: ["Laptops", "Desktops", "Monitors", "Keyboards", "Mice", "Webcams", "Headsets", "External Storage", "Docking Stations", "Network Equipment"]
+
+features:
+  customer_facing:
+    - product_catalog
+    - advanced_search_filters
+    - shopping_cart
+    - wishlist
+    - user_reviews_ratings
+    - order_tracking
+    - customer_accounts
+    - secure_checkout
+    - multiple_payment_methods
+    - responsive_design
+    - product_recommendations
+    - compare_products
+  
+  admin:
+    - inventory_management
+    - order_management
+    - customer_management
+    - analytics_dashboard
+    - sales_reports
+    - promotional_tools
+    - vendor_management
+    - shipping_integration
+    - tax_configuration
+
+integrations:
+  shipping:
+    - "LBC"
+    - "J&T Express"
+    - "Ninja Van"
+    - "DHL"
+    - "FedEx"
+  
+  marketing:
+    - "Google Analytics"
+    - "Facebook Pixel"
+    - "Email Marketing (SendGrid)"
+  
+  communication:
+    - "SMS Notifications"
+    - "Email Notifications"
+    - "Push Notifications"
+
+security:
+  - ssl_encryption
+  - pci_dss_compliance
+  - two_factor_authentication
+  - secure_payment_gateway
+  - data_encryption
+  - regular_security_audits
+
+target_market:
+  primary:
+    - "Home users seeking smart home solutions"
+    - "Small to medium businesses"
+    - "Enterprise organizations"
+    - "Tech enthusiasts"
+    - "IoT integrators and resellers"
+  
+  geographic:
+    - "Philippines (primary)"
+    - "Southeast Asia (expansion)"
+
+compliance:
+  - data_privacy_act_philippines
+  - consumer_protection_laws
+  - ecommerce_regulations
+  - tax_compliance
+
+team:
+  roles_needed:
+    - "Full-stack Developer"
+    - "UI/UX Designer"
+    - "DevOps Engineer"
+    - "Product Manager"
+    - "Customer Support"
+    - "Marketing Specialist"
+    - "Logistics Coordinator"

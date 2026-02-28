@@ -1,0 +1,19 @@
+# Mobile App
+# OnePath mobile application (iOS & Android)
+
+This directory will contain the mobile app code:
+
+## Planned Features
+- Daily devotionals
+- Prayer requests
+- Spiritual content library
+- Push notifications for inspiration
+- Offline access to scripture
+- Community features
+
+## Technology
+- React Native or Flutter
+- Firebase backend
+- Cross-platform (iOS & Android)
+
+Development planned for Q3-Q4 2026.

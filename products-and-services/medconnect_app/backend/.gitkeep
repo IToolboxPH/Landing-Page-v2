@@ -1,0 +1,13 @@
+# Backend API
+# Python + FastAPI server for MedConnect
+
+This directory will contain the backend API code.
+
+## Structure
+- `api/` - API endpoints and routes
+- `models/` - Database models (SQLAlchemy)
+- `services/` - Business logic
+- `integrations/` - PhilHealth, payments, SMS
+- `tests/` - Unit and integration tests
+
+Setup instructions in `/docs/GETTING_STARTED.md`

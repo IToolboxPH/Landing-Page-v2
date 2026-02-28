@@ -1,0 +1,9 @@
+# Automation Scripts
+# Deployment, data migration, utilities
+
+This directory will contain automation scripts for:
+- Database migrations
+- Deployment automation
+- Data import/export
+- Backup scripts
+- Testing utilities

@@ -1,0 +1,12 @@
+# Frontend Web Application
+# React + TypeScript + Material-UI
+
+This directory will contain the web application code.
+
+## Structure
+- `src/components/` - React components
+- `src/pages/` - Route pages
+- `src/services/` - API clients
+- `public/` - Static assets
+
+Setup instructions in `/docs/GETTING_STARTED.md`

@@ -1,0 +1,8 @@
+# Automated Tests
+# Unit tests, integration tests, E2E tests
+
+This directory will contain test files for:
+- Backend API tests (pytest)
+- Frontend component tests (Jest, React Testing Library)
+- Integration tests
+- End-to-end tests (Playwright, Cypress)

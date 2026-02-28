@@ -1,0 +1,86 @@
+# MedConnect Configuration
+# Healthcare Management Platform
+
+project:
+  name: "MedConnect"
+  description: "Healthcare Management Platform for Clinics and Hospitals"
+  version: "0.1.0"
+  status: "concept"
+  industry: "healthcare"
+  
+company:
+  name: "IToolbox"
+  founded: 2019
+  owner: "Nicole John A. Mortel"
+  email: "itoolbox2019@gmail.com"
+  phone: "+63 999 229 8724"
+
+target_market:
+  primary: "Philippines"
+  expansion:
+    - "Indonesia"
+    - "Vietnam"
+    - "Thailand"
+    - "Malaysia"
+
+launch:
+  mvp_target: "Q4 2026"
+  beta_target: "Q3 2026"
+  planning_start: "Q1 2026"
+
+features:
+  phase_1:
+    - "Electronic Medical Records (EMR)"
+    - "Appointment Management"
+    - "Patient Portal"
+    - "Billing & PhilHealth Integration"
+    - "Telemedicine"
+  phase_2:
+    - "Laboratory Information System"
+    - "Pharmacy Management"
+    - "Multi-branch Support"
+    - "Mobile App"
+    - "AI-assisted Diagnostics"
+  phase_3:
+    - "Hospital Management System"
+    - "Emergency Department"
+    - "Inpatient Management"
+    - "International Expansion"
+
+pricing:
+  essential: 2999
+  professional: 6999
+  business: 9999
+  enterprise: "custom"
+  currency: "PHP"
+
+tech_stack:
+  frontend:
+    web: "React + TypeScript"
+    mobile: "React Native"
+    ui: "Material-UI"
+  backend:
+    api: "Python + FastAPI"
+    database: "PostgreSQL"
+    cache: "Redis"
+    queue: "Celery"
+  infrastructure:
+    cloud: "AWS/GCP"
+    container: "Docker + Kubernetes"
+    security: "AES-256, TLS 1.3, OAuth 2.0"
+
+integrations:
+  - name: "PhilHealth"
+    purpose: "Claims processing"
+  - name: "GCash"
+    purpose: "Payment processing"
+  - name: "PayMaya"
+    purpose: "Payment processing"
+  - name: "Twilio"
+    purpose: "SMS and video consultations"
+
+compliance:
+  - "Philippine Data Privacy Act (DPA)"
+  - "HL7 FHIR Standards"
+  - "ICD-10 Coding"
+  - "PhilHealth Accreditation"

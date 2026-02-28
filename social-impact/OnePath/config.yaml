@@ -1,0 +1,125 @@
+# OnePath Configuration
+
+project:
+  name: "OnePath"
+  alternate_names:
+    - "Nico's Path"
+    - "OnePath: Faith Meets Tech"
+  tagline: "Faith Meets Tech"
+  type: "faith-based_community_initiative"
+  status: "planning"
+  
+founder:
+  name: "Nicole John A. Mortel"
+  role: "Founder/CEO"
+  personal_mission: "Serve God through technology innovation"
+
+organization:
+  type: "volunteering_initiative"
+  parent: "IToolbox Ecosystem"
+  relationship: "separate_but_connected"
+  nature: "non-commercial"
+  
+mission:
+  primary: "Unite all religions to serve God through technology"
+  focus:
+    - "Serve God and appreciate His love"
+    - "Fight evil with divine guidance"
+    - "Heal pain and suffering on earth"
+    - "Deliver God's message to all people"
+
+archangels:
+  raphael:
+    title: "The Healer"
+    role: "Stands at the center"
+    mission: "Lift every soul to God and heal all pain and suffering"
+  michael:
+    title: "The Protector"
+    role: "Guards the gates"
+    mission: "Guide us in fighting all evil in this world"
+  gabriel:
+    title: "The Messenger"
+    role: "Sounds the call"
+    mission: "Ensure God's love and message are heard by all"
+
+scripture:
+  foundation: "James 1:17"
+  text: "Every good and perfect gift is from above"
+
+platform:
+  website:
+    status: "planned"
+    launch_target: "Q2 2026"
+    domain_options:
+      - "onepath.org"
+      - "nicospathtogod.com"
+      - "onepathfaith.com"
+  mobile_app:
+    status: "planned"
+    launch_target: "Q4 2026"
+    platforms:
+      - "iOS"
+      - "Android"
+  facebook:
+    status: "active"
+    url: "https://www.facebook.com/profile.php?id=100087950283756"
+    
+features:
+  phase_1:
+    - "Daily scripture and reflections"
+    - "Prayer community"
+    - "Spiritual resources"
+    - "Archangel content"
+    - "Facebook content"
+  phase_2:
+    - "Mobile app"
+    - "Daily devotionals"
+    - "Prayer requests system"
+    - "Audio/video spiritual content"
+    - "Push notifications"
+  phase_3:
+    - "Live streaming services"
+    - "Virtual spiritual counseling"
+    - "Multi-language support"
+    - "Podcast/sermon library"
+    - "Community forums"
+
+funding:
+  model: "donation-based"
+  bootstrap_approach: "low_to_no_cost"
+  philosophy: "For the people, by the people, through God and in God"
+  commitment: "Never paywall spiritual content"
+  
+target_audience:
+  primary:
+    - "Christians seeking deeper faith"
+    - "People needing spiritual guidance"
+    - "Those seeking healing and hope"
+    - "Prayer warriors"
+  secondary:
+    - "All religions and denominations"
+    - "Faith seekers"
+    - "People in spiritual crisis"
+
+values:
+  - "Unity over Division"
+  - "Service to God"
+  - "Healing & Hope"
+  - "Divine Guidance"
+  - "Accessibility"
+  - "Authenticity"
+
+tech_stack:
+  website:
+    frontend: "HTML5, CSS3, JavaScript or React"
+    hosting: "Free tier (Netlify, Vercel, or GitHub Pages)"
+  mobile_app:
+    framework: "React Native or Flutter"
+    backend: "Firebase or Supabase (free tier)"
+  content:
+    cms: "WordPress or Strapi"
+  
+contact:
+  email_planned: "onepath@itoolbox.ph"
+  facebook: "https://www.facebook.com/profile.php?id=100087950283756"
+  parent_org: "IToolbox"
