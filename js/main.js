@@ -311,5 +311,5 @@ window.getAnalyticsSummary = getAnalyticsSummary;
 window.clearAnalytics = clearAnalytics;
 window.exportAnalytics = exportAnalytics;
 
-console.log('IToolbox Landing Page Loaded');
+console.log('Landing-Page-v2 Loaded');
 console.log('Available commands: getAnalyticsSummary(), clearAnalytics(), exportAnalytics()');
