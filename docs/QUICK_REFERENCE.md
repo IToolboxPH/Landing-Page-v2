@@ -1,9 +1,9 @@
-# IToolbox Startup - Quick Reference Guide
+# Quick Reference Guide
 
 **Company:** IToolbox  
 **Founded:** 2019  
 **CEO:** Nicole John A. Mortel  
-**Status:** Active Development
+**Status:** Deployed (v1.0)
 
 ---
 

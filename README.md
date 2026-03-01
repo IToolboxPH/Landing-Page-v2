@@ -1,6 +1,6 @@
-# IToolbox Landing Page - GitHub Pages
+# IToolbox Products & Services Page - GitHub Pages
 
-**Live Site**: [IToolbox Landing Page](https://itoolboxph.github.io/IToolbox-Landing-Page/)
+**Live Site**: [IToolbox Products & Services Page](https://itoolboxph.github.io/Products-Services-Page/)
 
 ## 🚀 Overview
 
@@ -11,6 +11,30 @@ Modern, responsive landing page for IToolbox startup company featuring:
 - Built-in visitor tracking
 - Dark theme with red gradient accents
 - Mission & Vision statements
+
+
+## 🎯 Project Overview
+
+IToolbox is a technology startup founded in 2019, dedicated to building innovative digital solutions that leverage AI, IoT, and modern web technologies. We're on a mission to create practical, scalable products that solve real-world problems across both public and private sectors.
+
+### Landing Page Sections
+- **Home** - Hero section with key metrics and CTAs
+- **About** - Company information, leadership, mission & vision
+- **Products & Services** - 6 core commercial products
+- **Partners** - Strategic partnerships (LMNP, VGP-LTC)
+- **Social Impact** - OnePath volunteer initiative
+- **Technology Stack** - Technical capabilities showcase
+- **Contact** - Multi-channel contact information
+
+### Key Features
+- 🎨 Modern responsive landing page ✅
+- 🤝 Partners section with logo integration ✅
+- 🙏 Social Impact section (OnePath) ✅
+- 📱 Mobile-responsive design ✅
+- 🎯 6 Products showcased ✅
+- 🔐 Built-in analytics tracking ✅
+
+---
 
 ## 📁 Project Structure
 
